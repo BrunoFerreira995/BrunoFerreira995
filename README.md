@@ -5,8 +5,6 @@ Lead Software Architect | Full Stack Developer | Especialista em Infraestrutura 
 Sou um desenvolvedor focado em soluções escaláveis e arquitetura de sistemas robustos. Tenho experiência sólida em transformar desafios complexos em produtos de alta performance, desde infraestrutura de streaming até sistemas de visão computacional em tempo real. Minha trajetória une o rigor técnico da engenharia com o pensamento analítico da filosofia e administração.
 🎓 Educação & Formação Acadêmica
 
-Minha base acadêmica é diversa, permitindo uma visão 360º sobre problemas técnicos e de gestão.
-
     Tecnologia em Análise e Desenvolvimento de Sistemas – FATEC Ourinhos (Graduado)
 
     Bacharelado em Engenharia Biomédica – Uninter (Em andamento)
@@ -17,7 +15,15 @@ Minha base acadêmica é diversa, permitindo uma visão 360º sobre problemas t�
 
     Técnico em Edificações – Centro Paula Souza (ETEC)
 
-        Competências em planejamento estrutural e normas técnicas aplicadas à organização de arquiteturas de sistemas.
+📚 Produção Acadêmica (Papers & Monografias)
+
+    Reengenharia de Sistemas de Coordenadas do Sistema de Saúde Pública
+
+        Otimização de fluxos de dados e georreferenciamento aplicados à eficiência da gestão de saúde pública.
+
+    Escolha Específica pela Especificidade da Escola: Materiais na Construção Civil
+
+        Estudo técnico sobre a seleção criteriosa de materiais em ambientes educacionais. O trabalho aborda a análise de desempenho de componentes (como a especificação entre vidros temperados, laminados e de controle solar) focando em segurança, acústica e eficiência térmica para o aprendizado.
 
 🚀 Projetos em Destaque
 Olhar+ (Segurança & Visão Computacional)
@@ -35,12 +41,6 @@ Desenvolvimento de APIs e serviços backend focados em latência ultrabaixa e al
     Destaque Técnico: Otimização de recursos utilizando o runtime Bun para máxima eficiência em produção.
 
     Stack: Bun, ElysiaJS, TypeScript, PostgreSQL.
-
-Soluções Mobile Nativas
-
-Criação de experiências mobile fluidas com foco em performance e integração direta com módulos nativos e APIs REST.
-
-    Stack: React Native, Redux, Styled Components.
 
 🛠️ Tech Stack & Ferramentas
 
