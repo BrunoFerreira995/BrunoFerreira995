@@ -1,55 +1,155 @@
-Olá! 👋 Sou o Bruno Pedraça
+# Olá! 👋 Sou o Bruno Pedraça
 
-Lead Software Architect | Full Stack Developer | Especialista em Infraestrutura de Vídeo e IA
+## Lead Software Architect | Full Stack Developer | Especialista em Sistemas Distribuídos, Infraestrutura de Vídeo e Inteligência Artificial
 
-Sou um desenvolvedor focado em soluções escaláveis e arquitetura de sistemas robustos. Tenho experiência sólida em transformar desafios complexos em produtos de alta performance, desde infraestrutura de streaming até sistemas de visão computacional em tempo real. Minha trajetória une o rigor técnico da engenharia com o pensamento analítico da filosofia e administração.
-🎓 Educação & Formação Acadêmica
+Sou um desenvolvedor focado em soluções escaláveis e arquitetura de sistemas robustos. Tenho experiência em transformar desafios complexos em produtos de alta performance, desde infraestrutura de streaming de vídeo e visão computacional até sistemas operacionais, fintechs e aplicações de missão crítica. Minha trajetória une engenharia de software, arquitetura de sistemas e pesquisa acadêmica para construir soluções confiáveis e escaláveis.
 
-    Tecnologia em Análise e Desenvolvimento de Sistemas – FATEC Ourinhos (Graduado)
+---
 
-    Bacharelado em Engenharia Biomédica – Uninter (Em andamento)
+# 🎓 Educação & Formação Acadêmica
 
-    Bacharelado em Filosofia – Uninter (Em andamento)
+* **Tecnologia em Análise e Desenvolvimento de Sistemas** – FATEC Ourinhos *(Graduado)*
+* **Bacharelado em Engenharia Biomédica** – Uninter *(Em andamento)*
+* **Bacharelado em Filosofia** – Uninter *(Em andamento)*
+* **Pós-graduação em Música** *(Concluída)*
+* **Técnico em Administração** *(Trancado)*
+* **Técnico em Edificações** – Centro Paula Souza (ETEC)
 
-    Técnico em Administração – (Em conclusão/2026)
+---
 
-    Técnico em Edificações – Centro Paula Souza (ETEC)
+# 📚 Produção Acadêmica
 
-📚 Produção Acadêmica (Papers & Monografias)
+### Reengenharia de Sistemas de Coordenadas do Sistema de Saúde Pública
 
-    Reengenharia de Sistemas de Coordenadas do Sistema de Saúde Pública
+Otimização de fluxos de dados e georreferenciamento aplicados à eficiência da gestão da saúde pública.
 
-        Otimização de fluxos de dados e georreferenciamento aplicados à eficiência da gestão de saúde pública.
+### Escolha Específica pela Especificidade da Escola: Materiais na Construção Civil
 
-    Escolha Específica pela Especificidade da Escola: Materiais na Construção Civil
+Estudo técnico sobre a seleção criteriosa de materiais em ambientes educacionais, analisando desempenho, segurança, conforto térmico e eficiência acústica para ambientes escolares.
 
-        Estudo técnico sobre a seleção criteriosa de materiais em ambientes educacionais. O trabalho aborda a análise de desempenho de componentes (como a especificação entre vidros temperados, laminados e de controle solar) focando em segurança, acústica e eficiência térmica para o aprendizado.
+---
 
-🚀 Projetos em Destaque
-Olhar+ (Segurança & Visão Computacional)
+# 🚀 Projetos em Destaque
 
-Plataforma de segurança em tempo real para escolas e pais, utilizando visão computacional para monitoramento preventivo.
+## Olhar+ — Segurança & Visão Computacional
 
-    Destaque Técnico: Implementação de infraestrutura crítica de vídeo e automação de conversão de protocolos.
+Plataforma de segurança em tempo real voltada para escolas e famílias utilizando visão computacional.
 
-    Stack: RTSP, HLS, MistServer e processamento de vídeo.
+**Destaques Técnicos**
 
-Arquitetura de Alta Performance com Bun & Elysia
+* Infraestrutura crítica de vídeo
+* Conversão automática de protocolos
+* Streaming de baixa latência
+* Monitoramento inteligente
 
-Desenvolvimento de APIs e serviços backend focados em latência ultrabaixa e alta concorrência.
+**Stack**
 
-    Destaque Técnico: Otimização de recursos utilizando o runtime Bun para máxima eficiência em produção.
+RTSP • HLS • MistServer • TypeScript
 
-    Stack: Bun, ElysiaJS, TypeScript, PostgreSQL.
+---
 
-🛠️ Tech Stack & Ferramentas
+## Sistema Operacional (Operating System)
 
-    Linguagens & Runtimes: Bun, TypeScript, Rust, Java, C++, COBOL.
+Projeto de desenvolvimento de um sistema operacional próprio, explorando arquitetura de baixo nível, gerenciamento de memória, bootloader, kernel e componentes fundamentais de sistemas modernos.
 
-    Backend & Arquitetura: ElysiaJS, Cloud Solutions, Microserviços.
+**Tecnologias**
 
-    Mobile: React Native (CLI).
+C++ • UEFI • Sistemas Operacionais • Arquitetura de Computadores
 
-    Infra & CLI: Linux, Bash, Sh, CLI Automation, Docker, MistServer.
+---
 
-    Bancos de Dados: MariaDB, SQLite, PostgreSQL, Redis, MongoDB.
+## CelCoin SDK
+
+Desenvolvimento de SDK para integração com a plataforma CelCoin, simplificando operações financeiras e bancárias dentro de aplicações corporativas.
+
+**Destaques**
+
+* APIs financeiras
+* Integração bancária
+* SDK reutilizável
+* Arquitetura modular
+
+---
+
+## OCR Licence Plates System
+
+Sistema de reconhecimento automático de placas veiculares utilizando visão computacional e OCR para identificação em tempo real.
+
+**Destaques**
+
+* Detecção automática de veículos
+* OCR de placas
+* Processamento em tempo real
+* Integração com sistemas de monitoramento
+
+**Tecnologias**
+
+Computer Vision • OCR • IA • TypeScript • OpenCV
+
+---
+
+## Arquitetura de Alta Performance com Bun & Elysia
+
+Desenvolvimento de APIs e serviços backend de alta performance utilizando Bun e ElysiaJS para aplicações de baixa latência e alta concorrência.
+
+**Stack**
+
+Bun • ElysiaJS • TypeScript • PostgreSQL • Redis
+
+---
+
+# 🛠️ Tech Stack
+
+### Linguagens
+
+* TypeScript
+* JavaScript
+* Rust
+* Java
+* C++
+* COBOL
+
+### Backend
+
+* Bun
+* Node.js
+* ElysiaJS
+* NestJS
+* Microservices
+* REST APIs
+
+### Frontend & Mobile
+
+* React
+* Next.js
+* React Native
+
+### Cloud & Infraestrutura
+
+* Docker
+* Linux
+* Bash
+* Shell Script
+* CLI Automation
+* MistServer
+
+### Bancos de Dados
+
+* PostgreSQL
+* MariaDB
+* MongoDB
+* SQLite
+* Redis
+
+### Especialidades
+
+* Arquitetura de Software
+* Sistemas Distribuídos
+* Inteligência Artificial
+* Visão Computacional
+* Streaming de Vídeo
+* OCR
+* Fintech
+* Sistemas Operacionais
+* APIs de Alta Performance
+* Cloud Computing
