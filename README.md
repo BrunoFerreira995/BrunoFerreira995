@@ -48,6 +48,26 @@ RTSP • HLS • MistServer • TypeScript
 
 ---
 
+## Forte Protected Desktop
+
+A native desktop platform for CCTV operations, DVR management, RTSP streaming, AI event processing, and security monitoring. Built with modern C++ and Qt, the project follows a local-first architecture focused on performance, reliability, and scalability. It currently manages thousands of surveillance channels while integrating real-time video, AI pipelines, and secure operator management.
+
+### Highlights
+
+* Native desktop application built with **C++20** and **Qt 6**
+* Local-first architecture powered by **SQLite**
+* Real-time RTSP video streaming with **libVLC**
+* AI event processing and detection pipeline
+* Secure authentication with Role-Based Access Control (RBAC)
+* High-performance operational dashboards
+* Scalable architecture ready for ONNX Runtime integration
+
+### Technologies
+
+C++20 • Qt 6 • SQLite • libVLC • CMake • OpenSSL • RTSP • Computer Vision • ONNX Runtime
+
+---
+
 ## Operating System
 
 Development of a custom operating system, exploring low-level architecture, bootloaders, memory management, kernel development, and core operating system components.
