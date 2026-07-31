@@ -12,7 +12,7 @@ Sou um desenvolvedor focado em soluções escaláveis e arquitetura de sistemas 
 * **Bacharelado em Engenharia Biomédica** – Uninter *(Em andamento)* 26,3%
 * **Bacharelado em Filosofia** – Uninter *(Em andamento)* 10,9%
 * **Pós-graduação em Música** *(Concluída)*
-* **Técnico em Administração** *(Trancado)*
+* **Técnico em Administração** *(Trancado)* 92%
 * **Técnico em Edificações** – Centro Paula Souza (ETEC)
 
 ---
