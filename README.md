@@ -9,8 +9,8 @@ Sou um desenvolvedor focado em soluções escaláveis e arquitetura de sistemas 
 # 🎓 Educação & Formação Acadêmica
 
 * **Tecnologia em Análise e Desenvolvimento de Sistemas** – FATEC Ourinhos *(Graduado)*
-* **Bacharelado em Engenharia Biomédica** – Uninter *(Em andamento)*
-* **Bacharelado em Filosofia** – Uninter *(Em andamento)*
+* **Bacharelado em Engenharia Biomédica** – Uninter *(Em andamento)* 26,3%
+* **Bacharelado em Filosofia** – Uninter *(Em andamento)* 10,9%
 * **Pós-graduação em Música** *(Concluída)*
 * **Técnico em Administração** *(Trancado)*
 * **Técnico em Edificações** – Centro Paula Souza (ETEC)
