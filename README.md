@@ -1,98 +1,98 @@
-# Olá! 👋 Sou o Bruno Pedraça
+# Hi, I'm Bruno Pedraça 👋
 
-## Lead Software Architect | Full Stack Developer | Especialista em Sistemas Distribuídos, Infraestrutura de Vídeo e Inteligência Artificial
+## Lead Software Architect | Full Stack Developer | Distributed Systems, Video Infrastructure & Artificial Intelligence Specialist
 
-Sou um desenvolvedor focado em soluções escaláveis e arquitetura de sistemas robustos. Tenho experiência em transformar desafios complexos em produtos de alta performance, desde infraestrutura de streaming de vídeo e visão computacional até sistemas operacionais, fintechs e aplicações de missão crítica. Minha trajetória une engenharia de software, arquitetura de sistemas e pesquisa acadêmica para construir soluções confiáveis e escaláveis.
-
----
-
-# 🎓 Educação & Formação Acadêmica
-
-* **Tecnologia em Análise e Desenvolvimento de Sistemas** – FATEC Ourinhos *(Graduado)*
-* **Bacharelado em Engenharia Biomédica** – Uninter *(Em andamento)* 26,3%
-* **Bacharelado em Filosofia** – Uninter *(Em andamento)* 10,9%
-* **Pós-graduação em Música** *(Concluída)*
-* **Técnico em Administração** *(Trancado)* 92%
-* **Técnico em Edificações** – Centro Paula Souza (ETEC)
+I am a software engineer focused on building scalable solutions and designing robust software architectures. My experience spans high-performance systems, including real-time video infrastructure, computer vision, operating systems, fintech platforms, and mission-critical applications. I combine software engineering, distributed systems, and academic research to deliver reliable, maintainable, and scalable products.
 
 ---
 
-# 📚 Produção Acadêmica
+# 🎓 Education
 
-### Reengenharia de Sistemas de Coordenadas do Sistema de Saúde Pública
-
-Otimização de fluxos de dados e georreferenciamento aplicados à eficiência da gestão da saúde pública.
-
-### Escolha Específica pela Especificidade da Escola: Materiais na Construção Civil
-
-Estudo técnico sobre a seleção criteriosa de materiais em ambientes educacionais, analisando desempenho, segurança, conforto térmico e eficiência acústica para ambientes escolares.
+* **Associate Degree in Systems Analysis and Development** – FATEC Ourinhos *(Graduated)*
+* **Bachelor's Degree in Biomedical Engineering** – Uninter *(In Progress – 26.3%)*
+* **Bachelor's Degree in Philosophy** – Uninter *(In Progress – 10.9%)*
+* **Postgraduate Degree in Music** *(Completed)*
+* **Technical Degree in Business Administration** *(Paused – 92% Completed)*
+* **Technical Degree in Building Construction** – Centro Paula Souza (ETEC)
 
 ---
 
-# 🚀 Projetos em Destaque
+# 📚 Academic Publications
 
-## Olhar+ — Segurança & Visão Computacional
+## Reengineering Coordinate Systems for Public Healthcare
 
-Plataforma de segurança em tempo real voltada para escolas e famílias utilizando visão computacional.
+Research focused on optimizing data workflows and geospatial systems to improve efficiency in public healthcare management.
 
-**Destaques Técnicos**
+## Specific Selection Through School-Specific Requirements: Construction Materials
 
-* Infraestrutura crítica de vídeo
-* Conversão automática de protocolos
-* Streaming de baixa latência
-* Monitoramento inteligente
+Technical research on selecting construction materials for educational environments, evaluating safety, durability, thermal comfort, and acoustic performance.
 
-**Stack**
+---
+
+# 🚀 Featured Projects
+
+## Olhar+ — Security & Computer Vision Platform
+
+A real-time security platform designed for schools and families using AI-powered computer vision.
+
+### Highlights
+
+* Critical video infrastructure
+* Automatic protocol conversion
+* Low-latency video streaming
+* Intelligent monitoring
+
+### Technologies
 
 RTSP • HLS • MistServer • TypeScript
 
 ---
 
-## Sistema Operacional (Operating System)
+## Operating System
 
-Projeto de desenvolvimento de um sistema operacional próprio, explorando arquitetura de baixo nível, gerenciamento de memória, bootloader, kernel e componentes fundamentais de sistemas modernos.
+Development of a custom operating system, exploring low-level architecture, bootloaders, memory management, kernel development, and core operating system components.
 
-**Tecnologias**
+### Technologies
 
-C++ • UEFI • Sistemas Operacionais • Arquitetura de Computadores
+C++ • UEFI • Operating Systems • Computer Architecture
 
 ---
 
 ## CelCoin SDK
 
-Desenvolvimento de SDK para integração com a plataforma CelCoin, simplificando operações financeiras e bancárias dentro de aplicações corporativas.
+Development of an SDK for CelCoin integration, simplifying financial and banking operations for enterprise applications.
 
-**Destaques**
+### Highlights
 
-* APIs financeiras
-* Integração bancária
-* SDK reutilizável
-* Arquitetura modular
-
----
-
-## OCR Licence Plates System
-
-Sistema de reconhecimento automático de placas veiculares utilizando visão computacional e OCR para identificação em tempo real.
-
-**Destaques**
-
-* Detecção automática de veículos
-* OCR de placas
-* Processamento em tempo real
-* Integração com sistemas de monitoramento
-
-**Tecnologias**
-
-Computer Vision • OCR • IA • TypeScript • OpenCV
+* Financial APIs
+* Banking integrations
+* Reusable SDK
+* Modular architecture
 
 ---
 
-## Arquitetura de Alta Performance com Bun & Elysia
+## OCR License Plate Recognition System
 
-Desenvolvimento de APIs e serviços backend de alta performance utilizando Bun e ElysiaJS para aplicações de baixa latência e alta concorrência.
+Automatic License Plate Recognition (ALPR) system using computer vision and OCR for real-time vehicle identification.
 
-**Stack**
+### Highlights
+
+* Vehicle detection
+* Optical Character Recognition (OCR)
+* Real-time image processing
+* Integration with security and monitoring platforms
+
+### Technologies
+
+Computer Vision • OCR • AI • TypeScript • OpenCV
+
+---
+
+## High-Performance Architecture with Bun & Elysia
+
+Development of high-performance backend services and APIs using Bun and ElysiaJS for low-latency, high-concurrency applications.
+
+### Technologies
 
 Bun • ElysiaJS • TypeScript • PostgreSQL • Redis
 
@@ -100,7 +100,7 @@ Bun • ElysiaJS • TypeScript • PostgreSQL • Redis
 
 # 🛠️ Tech Stack
 
-### Linguagens
+## Programming Languages
 
 * TypeScript
 * JavaScript
@@ -109,7 +109,7 @@ Bun • ElysiaJS • TypeScript • PostgreSQL • Redis
 * C++
 * COBOL
 
-### Backend
+## Backend
 
 * Bun
 * Node.js
@@ -118,22 +118,22 @@ Bun • ElysiaJS • TypeScript • PostgreSQL • Redis
 * Microservices
 * REST APIs
 
-### Frontend & Mobile
+## Frontend & Mobile
 
 * React
 * Next.js
 * React Native
 
-### Cloud & Infraestrutura
+## Cloud & Infrastructure
 
 * Docker
 * Linux
 * Bash
-* Shell Script
+* Shell Scripting
 * CLI Automation
 * MistServer
 
-### Bancos de Dados
+## Databases
 
 * PostgreSQL
 * MariaDB
@@ -141,15 +141,15 @@ Bun • ElysiaJS • TypeScript • PostgreSQL • Redis
 * SQLite
 * Redis
 
-### Especialidades
+## Areas of Expertise
 
-* Arquitetura de Software
-* Sistemas Distribuídos
-* Inteligência Artificial
-* Visão Computacional
-* Streaming de Vídeo
-* OCR
+* Software Architecture
+* Distributed Systems
+* Artificial Intelligence
+* Computer Vision
+* Video Streaming Infrastructure
+* Optical Character Recognition (OCR)
 * Fintech
-* Sistemas Operacionais
-* APIs de Alta Performance
+* Operating Systems
+* High-Performance APIs
 * Cloud Computing
