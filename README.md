@@ -29,6 +29,103 @@ Technical research on selecting construction materials for educational environme
 
 ---
 
+# 📜 Certifications
+
+## Software Engineering & Development
+
+- **API with Bun** — Rocketseat *(2026)*
+- **Responsive Web Design** — freeCodeCamp *(2021)*
+- **Semana OmniStack 11** — Rocketseat *(2020)*
+- **Competitive Programming** — FATEC Ourinhos *(2019)*
+- **Reverse Engineering for Bug Discovery** — FATEC Ourinhos *(2019)*
+- **FLISOL 2019** — FATEC Ourinhos *(2019)*
+- **IV Symposium on Systems Analysis and Development (SIADS)** — FATEC Ourinhos *(2019)*
+- **XIII & XIV Technology Week** — FATEC Ourinhos *(2018–2019)*
+
+---
+
+## Artificial Intelligence, Cloud & Biomedical Engineering
+
+- **Artificial Intelligence and Cloud Computing in Healthcare** — UNINTER *(2026)*
+- **V Week of Electrical & Biomedical Engineering** — UNINTER *(2026)*
+- **Future Careers in Electrical & Biomedical Engineering** — UNINTER *(2026)*
+
+---
+
+## Electrical Engineering
+
+- **Electrical Circuits (DC & AC), Electrical Installations, Grounding Systems, Motor Drives & Electrical Measurements** — UNINTER *(2026)*
+
+---
+
+## Manufacturing & Industrial Engineering
+
+- **Production Planning and Control Assistant (PPC)** — UNINTER *(2026)*
+- **Door Manufacturing Technology** — UNINTER *(2026)*
+
+---
+
+## Business & Administration
+
+- **Certified Administrative Assistant** — UNINTER *(2026)*
+- **Building Startups** — UNINTER *(2026)*
+
+---
+
+## English
+
+- **EF SET English Certificate** *(2026)*
+- **English Level Assessment (3rd Edition)** — UNINTER *(2026)*
+
+---
+
+## Music
+
+- **The Songwriting and Artistry of Billie Eilish** — Berklee College of Music *(2026)*
+
+---
+
+## Public Service & Government
+
+- **SEC-BA – Philosophy Teacher (Specific Knowledge)** — Estratégia Concursos *(2026)*
+- **Banco do Brasil – Portuguese Language** — Estratégia Concursos *(2026)*
+- **ANVISA – Health Regulation Specialist** — Estratégia Concursos *(2026)*
+- **UFAC – Human Anatomy Laboratory Technician** — Estratégia Concursos *(2025)*
+
+---
+
+## Architecture & Civil Engineering
+
+- **Environmental Comfort** — Faculdade Metropolitana *(2026)*
+- **Architecture Against Crime & Public Safety** — UNINTER *(2026)*
+- **Waterproofing Structures** *(2013)*
+- **Small-Format Surface Finishes** *(2014)*
+
+---
+
+## Technology, Society & Geopolitics
+
+- **Geopolitics and the Agribusiness Sector** — UNINTER *(2026)*
+- **Violence and Policing in Canada and Brazil** — UNINTER *(2026)*
+
+---
+
+## Design
+
+- **Graphic Design & Web Design** — MicroWay *(2008)*
+
+---
+
+## Science
+
+- **XIII Brazilian Astronomy and Astronautics Olympiad** *(2010)*
+
+---
+
+## Music Distribution
+
+- **Pedraça – Express Feelings and Emotions** — Ditto Music *(2024)*
+
 # 🚀 Featured Projects
 
 ## Olhar+ — Security & Computer Vision Platform
