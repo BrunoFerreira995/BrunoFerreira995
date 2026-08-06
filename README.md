@@ -302,15 +302,3 @@ Bun • ElysiaJS • TypeScript • PostgreSQL • Redis
 * SQLite
 * Redis
 
-## Areas of Expertise
-
-* Software Architecture
-* Distributed Systems
-* Artificial Intelligence
-* Computer Vision
-* Video Streaming Infrastructure
-* Optical Character Recognition (OCR)
-* Fintech
-* Operating Systems
-* High-Performance APIs
-* Cloud Computing
