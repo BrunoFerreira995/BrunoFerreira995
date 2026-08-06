@@ -30,24 +30,25 @@ Research focused on optimizing data workflows and geospatial systems to improve 
 Technical research on selecting construction materials for educational environments, evaluating safety, durability, thermal comfort, and acoustic performance.
 
 ---
+# 🔬 Areas of Expertise
 
-🔬 Areas of Expertise
-Artificial Intelligence
-Machine Learning
-TensorFlow
-Deep Learning
-Large Language Models (LLMs)
-Computer Vision
-Optical Character Recognition (OCR)
-Distributed Systems
-Software Architecture
-Cloud Computing
-Edge AI
-High-Performance APIs
-Video Streaming Infrastructure
-Fintech
-Operating Systems
-Performance Optimization
+- Artificial Intelligence
+- Machine Learning
+- TensorFlow
+- Deep Learning
+- Large Language Models (LLMs)
+- Computer Vision
+- Optical Character Recognition (OCR)
+- Distributed Systems
+- Software Architecture
+- Cloud Computing
+- Edge AI
+- High-Performance APIs
+- Video Streaming Infrastructure
+- Fintech
+- Operating Systems
+- Performance Optimization
+
 # 📜 Certifications
 
 ## Software Engineering & Development
@@ -147,27 +148,30 @@ Performance Optimization
 
 # 🚀 Featured Projects
 
-##TensorFlow AI Platform
+## TensorFlow AI Platform
 
-#A complete Artificial Intelligence platform built with TensorFlow for Portuguese educational understanding, intent classification, and language generation.
+A complete Artificial Intelligence platform built with TensorFlow for Portuguese educational understanding, intent classification, and language generation.
 
-Highlights
-End-to-end Machine Learning pipeline
-Portuguese NLP
-Intent Classification
-Transformer-based Causal Language Model
-TensorFlow training pipeline
-ONNX / TensorFlow Lite export
-FastAPI inference server
-Docker & Kubernetes deployment
-Edge AI deployment
-Model monitoring
-Continuous retraining pipeline
-Security hardening
-Benchmark automation
-Technologies
+### Highlights
 
-TensorFlow • Keras • Python • FastAPI • ONNX • TensorFlow Lite • Docker • Kubernetes • AWS • Google Cloud • Azure
+- End-to-end Machine Learning pipeline
+- Portuguese NLP
+- Intent Classification
+- Transformer-based Causal Language Model
+- TensorFlow training pipeline
+- ONNX / TensorFlow Lite export
+- FastAPI inference server
+- Docker & Kubernetes deployment
+- Edge AI deployment
+- Model monitoring
+- Continuous retraining pipeline
+- Security hardening
+- Benchmark automation
+
+### Technologies
+
+**TensorFlow** • **Keras** • **Python** • **FastAPI** • **ONNX** • **TensorFlow Lite** • **Docker** • **Kubernetes** • **AWS** • **Google Cloud** • **Microsoft Azure**
+
 ## Olhar+ — Security & Computer Vision Platform
 
 A real-time security platform designed for schools and families using AI-powered computer vision.
