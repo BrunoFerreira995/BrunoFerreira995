@@ -1,8 +1,10 @@
 # Hi, I'm Bruno Pedraça 👋
 
-## Lead Software Architect | Full Stack Developer | Distributed Systems, Video Infrastructure & Artificial Intelligence Specialist
+## Lead Software Architect | AI Engineer | Full Stack Developer | Distributed Systems & Computer Vision Specialist
 
-I am a software engineer focused on building scalable solutions and designing robust software architectures. My experience spans high-performance systems, including real-time video infrastructure, computer vision, operating systems, fintech platforms, and mission-critical applications. I combine software engineering, distributed systems, and academic research to deliver reliable, maintainable, and scalable products.
+I am a Software Architect and AI Engineer focused on designing and building production-ready intelligent systems. My work spans Artificial Intelligence, Machine Learning, Distributed Systems, Computer Vision, real-time video infrastructure, cloud-native applications, fintech platforms, and operating systems.
+
+I specialize in designing complete AI platforms—from data engineering and model training to deployment, monitoring, Edge AI, and continuous retraining—while applying modern software engineering principles to build scalable, secure, and maintainable systems.
 
 ---
 
@@ -29,6 +31,23 @@ Technical research on selecting construction materials for educational environme
 
 ---
 
+🔬 Areas of Expertise
+Artificial Intelligence
+Machine Learning
+TensorFlow
+Deep Learning
+Large Language Models (LLMs)
+Computer Vision
+Optical Character Recognition (OCR)
+Distributed Systems
+Software Architecture
+Cloud Computing
+Edge AI
+High-Performance APIs
+Video Streaming Infrastructure
+Fintech
+Operating Systems
+Performance Optimization
 # 📜 Certifications
 
 ## Software Engineering & Development
@@ -128,6 +147,27 @@ Technical research on selecting construction materials for educational environme
 
 # 🚀 Featured Projects
 
+##TensorFlow AI Platform
+
+#A complete Artificial Intelligence platform built with TensorFlow for Portuguese educational understanding, intent classification, and language generation.
+
+Highlights
+End-to-end Machine Learning pipeline
+Portuguese NLP
+Intent Classification
+Transformer-based Causal Language Model
+TensorFlow training pipeline
+ONNX / TensorFlow Lite export
+FastAPI inference server
+Docker & Kubernetes deployment
+Edge AI deployment
+Model monitoring
+Continuous retraining pipeline
+Security hardening
+Benchmark automation
+Technologies
+
+TensorFlow • Keras • Python • FastAPI • ONNX • TensorFlow Lite • Docker • Kubernetes • AWS • Google Cloud • Azure
 ## Olhar+ — Security & Computer Vision Platform
 
 A real-time security platform designed for schools and families using AI-powered computer vision.
