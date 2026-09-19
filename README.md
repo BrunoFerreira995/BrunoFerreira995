@@ -54,6 +54,7 @@ Technical research on selecting construction materials for educational environme
 ## Software Engineering & Development
 
 - **API with Bun** — Rocketseat *(2026)*
+- Software Life Cycle — FAMEESP (2023, 50 hours)
 - **Responsive Web Design** — freeCodeCamp *(2021)*
 - **Semana OmniStack 11** — Rocketseat *(2020)*
 - **Competitive Programming** — FATEC Ourinhos *(2019)*
