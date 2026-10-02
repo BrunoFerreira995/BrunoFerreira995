@@ -10,7 +10,7 @@ I specialize in designing complete AI platforms—from data engineering and mode
 
 # 🎓 Education
 
-* **Associate Degree in Systems Analysis and Development** – FATEC Ourinhos *(Graduated)*
+* **Technologist Degree in Systems Analysis and Development** – FATEC Ourinhos *(Graduated)*
 * **Bachelor's Degree in Biomedical Engineering** – Uninter *(In Progress – 26.3%)*
 * **Bachelor's Degree in Philosophy** – Uninter *(In Progress – 10.9%)*
 * **Postgraduate Degree in Music** *(Completed)*
