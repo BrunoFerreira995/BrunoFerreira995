@@ -75,7 +75,7 @@ Technical research on selecting construction materials for educational environme
 
 ## Electrical Engineering
 
-- **Electrical Circuits (DC & AC), Electrical Installations, Grounding Systems, Motor Drives & Electrical Measurements** — UNINTER *(2026)*
+- **Electrical Circuits (DC & AC), Electrical Installations, Grounding Systems, Motor Drives & Electrical Measurements** — Estratégia Concursos *(2026)*
 
 ---
 
