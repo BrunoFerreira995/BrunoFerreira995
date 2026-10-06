@@ -14,6 +14,7 @@ I specialize in designing complete AI platforms—from data engineering and mode
 * **Bachelor's Degree in Biomedical Engineering** – Uninter *(In Progress – 26.3%)*
 * **Bachelor's Degree in Philosophy** – Uninter *(In Progress – 10.9%)*
 * **Postgraduate Degree in Music** *(Completed)*
+* **Postgraduate Degree in Theology** *(Completed)*
 * **Technical Degree in Business Administration** *(Paused – 92% Completed)*
 * **Technical Degree in Building Construction** – Centro Paula Souza (ETEC)
 
